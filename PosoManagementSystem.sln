@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PosoManagementSystem", "PosoManagementSystem.csproj", "{731ACD41-59BF-401E-8144-F7CFA8A92900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731ACD41-59BF-401E-8144-F7CFA8A92900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731ACD41-59BF-401E-8144-F7CFA8A92900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731ACD41-59BF-401E-8144-F7CFA8A92900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731ACD41-59BF-401E-8144-F7CFA8A92900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABC327C1-0832-448B-A727-5C0BC94A5052}
+	EndGlobalSection
+EndGlobal
