@@ -11,7 +11,7 @@ namespace PosoManagementSystem.Data_Access
 {
     public static class AddMangaDBContext
     {
-        private static string ConnectionString = @"Data Source=DESKTOP-PKBR8TR;Initial Catalog=MyFirstProjectDB;Integrated Security=True;";
+        private static string ConnectionString = @"Data Source=;Initial Catalog=;Integrated Security=True;";
 
         public static void AddManga(MangaModels mangaModels)
         {
