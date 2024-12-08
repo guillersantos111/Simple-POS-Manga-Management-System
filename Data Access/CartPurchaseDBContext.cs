@@ -9,7 +9,7 @@ namespace PosoManagementSystem.Data_Access
 {
     public class CartPurchaseDBContext
     {
-        private static string ConnectionString = @"Data Source=DESKTOP-PKBR8TR;Initial Catalog=MyFirstProjectDB;Integrated Security=True;";
+        private static string ConnectionString = @"Data Source=;Initial Catalog=;Integrated Security=True;";
 
         public static List<MangaModels> GetAllManga()
         {
